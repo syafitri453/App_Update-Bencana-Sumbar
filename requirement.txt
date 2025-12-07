@@ -1,0 +1,4 @@
+streamlit==1.36.0  # Pustaka utama untuk membuat aplikasi web interaktif.
+pandas==2.2.2     # Untuk manipulasi dan analisis data (membaca CSV, filtering, dll.).
+numpy==1.26.4     # Untuk operasi numerik yang efisien, terutama untuk penskalaan data.
+altair==5.3.0     # Pustaka untuk visualisasi data deklaratif yang cantik.
